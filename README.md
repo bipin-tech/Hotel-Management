@@ -1,2 +1,3 @@
 # Hotel-Management
-simple hotel management program with python and mysql
+Simple hotel management program with python and mysql
+It can perform simple functions
