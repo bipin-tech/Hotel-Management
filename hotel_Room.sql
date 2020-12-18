@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.22, for macos10.15 (x86_64)
+-- 
 --
 -- Host: localhost    Database: hotel
 -- ------------------------------------------------------
@@ -50,4 +50,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-12-18 16:41:27
+-- 
