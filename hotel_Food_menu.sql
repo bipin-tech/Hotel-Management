@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.22, for macos10.15 (x86_64)
+
 --
 -- Host: localhost    Database: hotel
 -- ------------------------------------------------------
@@ -18,7 +18,7 @@
 --
 -- Table structure for table `Food_menu`
 --
-
+USE HOTEL;
 DROP TABLE IF EXISTS `Food_menu`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
@@ -47,4 +47,3 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-12-18 17:09:48
